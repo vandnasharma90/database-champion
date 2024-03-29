@@ -53,9 +53,15 @@
 
 ### Other Important Commands
 
-|  <!-- -->         | <!-- -->    | <!-- -->     |
-| ---------------- | ----------- | ------------ |
-| where |  Adapter    |   Chain of Responsibility  |
+|  <!-- -->   | <!-- -->     | <!-- -->     |
+| ------------| -----------  | ------------ |
+| where       | UPDATE       | AND, OR and NOT Operators  |
+| ORDER BY    | INSERT INTO  | DELETE                     |
+| LIMIT       | LIKE         | MIN() and MAX()            |
+| IN          | BETWEEN      | COUNT(), AVG() and SUM()   |
+| JOIN        | UNION        | GROUP BY                   |
+| HAVING      | EXISTS       | ANY and ALL                |
+
 
 #### WHERE clause
 
@@ -78,8 +84,16 @@ WHERE condition;
 | LIKE             |  Search for a pattern    | 
 | IN               |  To specify multiple possible values for a column    | 
 
+#### NULL Values
+
+#### Wildcards
+
+#### Aliases
+
+#### Joins
+
+#### CASE Statement
 
 
-
-References
+**References**
 [w3schools](https://www.w3schools.com/mysql/mysql_where.asp)
