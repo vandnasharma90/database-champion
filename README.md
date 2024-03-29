@@ -131,6 +131,10 @@ WHERE condition;
 
 ![SQL](https://github.com/vandnasharma90/database-champion/assets/137639055/fad0e440-1d48-4afd-b598-12425726a412)
 
+# Advanced Data Modeling
+
+[Database Modeling Tips](https://vertabelo.com/blog/before-you-start-drawing-database-modeling-tips/)
+
 ## Interview Questions 🎓
 
 ### SQL Query Based Questions
