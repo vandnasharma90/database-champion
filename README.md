@@ -18,7 +18,9 @@
 
 - **Data Warehouse**
   - What is datawarehouse ?
-  - Snowflake 
+  - Snowflake
+
+- **Interview Questions**
 
 ## Introduction
 
@@ -105,7 +107,14 @@ WHERE condition;
 
 ![SQL](https://github.com/vandnasharma90/database-champion/assets/137639055/fad0e440-1d48-4afd-b598-12425726a412)
 
+## Interview Questions
 
-## References
+What is Data, Database and Database Management System (DBMS)
+
+
+## References  📚
 
 **[w3schools](https://www.w3schools.com/mysql/mysql_where.asp)**
+**[tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)**
+**[javatpoint](https://www.javatpoint.com/dbms-tutorial)**
+**[geeksforgeeks](https://www.geeksforgeeks.org/dbms/?ref=ghm)**
