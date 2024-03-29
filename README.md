@@ -114,7 +114,10 @@ What is Data, Database and Database Management System (DBMS)
 
 ## References  📚
 
-**[w3schools](https://www.w3schools.com/mysql/mysql_where.asp)**
-**[tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)**
-**[javatpoint](https://www.javatpoint.com/dbms-tutorial)**
-**[geeksforgeeks](https://www.geeksforgeeks.org/dbms/?ref=ghm)**
+   **[w3schools](https://www.w3schools.com/mysql/mysql_where.asp)**
+   
+   **[tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)**
+   
+   **[javatpoint](https://www.javatpoint.com/dbms-tutorial)**
+   
+   **[geeksforgeeks](https://www.geeksforgeeks.org/dbms/?ref=ghm)**
