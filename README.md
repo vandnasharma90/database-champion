@@ -55,7 +55,14 @@
 
 |  <!-- -->         | <!-- -->    | <!-- -->     |
 | ---------------- | ----------- | ------------ |
-| Abstract Factory |  Adapter    |   Chain of Responsibility  |
+| where |  Adapter    |   Chain of Responsibility  |
 
+#### where clause
+
+'''
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+'''
 
 
