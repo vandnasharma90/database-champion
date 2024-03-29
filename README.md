@@ -15,10 +15,31 @@
   - What is MySQL
   - Types of SQL commands
   - Other Important Commands
-
+ 
+- **Advanced Data Modeling**
+   - What is Data Modelling ?
+   - Types of data models
+   - Designing a data model
+   - Database normalization
+   - Model a database using MySQL Workbench
+     
 - **Data Warehouse**
-  - What is datawarehouse ?
+  - What is data warehouse ?
+  - Data warehouse architecture
+  - ETL process in data warehousing
+  - Dimensional data modeling 
   - Snowflake
+  - Design of the star and snowflake schemas as used to build a data warehouse.
+  - creating dimensional data modeling using the Four Steps approach
+ 
+- **Data Analytics**
+   - Introduction
+   - Various types of data measurements
+   - key concepts
+   - Data visualization
+   - Advanced data analytics tools
+   - Connect and prepare data in Tableau
+   - Create interactive dashboards in Tableau
 
 - **Interview Questions**
 
@@ -113,6 +134,8 @@ What is Data, Database and Database Management System (DBMS)
 
 
 ## References  📚
+
+   **[Advanced Data Modeling](https://www.coursera.org/learn/advanced-data-modeling)**
 
    **[w3schools](https://www.w3schools.com/mysql/mysql_where.asp)**
    
