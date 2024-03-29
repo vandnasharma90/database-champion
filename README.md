@@ -51,7 +51,7 @@
 
 ![DML-DDL](https://github.com/vandnasharma90/database-champion/assets/137639055/1ab4ffd4-6816-44b2-a066-f26f640ac3d4)
 
-### Other Important Commands
+### Other Important Commands and keywords
 
 |  <!-- -->   | <!-- -->     | <!-- -->     |
 | ------------| -----------  | ------------ |
@@ -62,7 +62,7 @@
 | JOIN        | UNION        | GROUP BY                   |
 | HAVING      | EXISTS       | ANY and ALL                |
 
-
+  
 #### WHERE clause
 
 ```
@@ -92,7 +92,18 @@ WHERE condition;
 
 #### Joins
 
+
+
 #### CASE Statement
+
+#### SQL Query Execution
+
+![SqlQueryExecution](https://github.com/vandnasharma90/database-champion/assets/137639055/32593544-f6ed-4ef8-bd72-0b2915955bc8)
+
+
+#### SQL Summary
+
+![SQL](https://github.com/vandnasharma90/database-champion/assets/137639055/fad0e440-1d48-4afd-b598-12425726a412)
 
 
 **References**
