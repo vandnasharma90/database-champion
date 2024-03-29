@@ -53,7 +53,9 @@
 
 ### Other Important Commands
 
-| where |  Adapter    |   Chain of Responsibility  |
+|  <!-- -->         | <!-- -->    | <!-- -->     |
+| ---------------- | ----------- | ------------ |
+| Abstract Factory |  Adapter    |   Chain of Responsibility  |
 
 
 
