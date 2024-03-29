@@ -133,6 +133,8 @@ WHERE condition;
 
 # Advanced Data Modeling
 
+[design_fundamentals](https://vertabelo.com/blog/design_fundamentals/)
+
 [Database Modeling Tips](https://vertabelo.com/blog/before-you-start-drawing-database-modeling-tips/)
 
 ## Interview Questions 🎓
