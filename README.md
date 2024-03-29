@@ -108,4 +108,4 @@ WHERE condition;
 
 ## References
 
--**[w3schools](https://www.w3schools.com/mysql/mysql_where.asp)**
+**[w3schools](https://www.w3schools.com/mysql/mysql_where.asp)**
