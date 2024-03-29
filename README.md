@@ -8,7 +8,8 @@
    - Types of DBMS
      - Relational Database
      - NoSQL Database
-   - Data Warehouse 
+   - Data Warehouse
+   - Datalake 
         
 - **MySQL**
   - What is MySQL
@@ -51,3 +52,8 @@
 ![DML-DDL](https://github.com/vandnasharma90/database-champion/assets/137639055/1ab4ffd4-6816-44b2-a066-f26f640ac3d4)
 
 ### Other Important Commands
+
+| where |  Adapter    |   Chain of Responsibility  |
+
+
+
