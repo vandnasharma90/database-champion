@@ -54,6 +54,9 @@
 
 ### Database Models
 
+##### ER Model
+
+
 ![DataBaseModel](https://github.com/vandnasharma90/database-champion/assets/137639055/29f43652-ff32-4798-93ef-3a9ba35af7d6)
 
 
@@ -130,7 +133,28 @@ WHERE condition;
 
 ## Interview Questions 🎓
 
-What is Data, Database and Database Management System (DBMS)
+### SQL Query Based Questions
+
+
+
+### Theoretical Questions
+
+   - What is Data, Database and Database Management System (DBMS) ?
+   - How do you know which database model to choose while creating a database?
+   - Explain different languages present in DBMS. DDL , DDL, DCL, TCL
+   - Explain the difference between the DELETE and TRUNCATE command in a DBMS
+   - Difference between where and having clause
+   - Explain different types of relationships amongst tables in a DBMS
+      - One to One Relationship:
+      - One to Many Relationship:
+      - Many to Many Relationship
+      -Self Referencing Relationship
+    - What is meant by normalization and denormalization?
+    - Explain different types of Normalization forms in a DBMS. First, Second, third, bcnf
+    - Explain different types of keys in a database. Candidate, Super, Primary, Unique, Alternate, Foreign, Composite
+    -  
+ 
+
 
 
 ## References  📚
