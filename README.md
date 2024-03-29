@@ -135,6 +135,11 @@ WHERE condition;
 
 ### SQL Query Based Questions
 
+      Check online SQL pratice tool : 
+      [Link-1](https://www.kdnuggets.com/2023/01/7-best-platforms-practice-sql.html)
+      [Link2](https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e)
+
+      
 
 
 ### Theoretical Questions
@@ -148,13 +153,12 @@ WHERE condition;
       - One to One Relationship:
       - One to Many Relationship:
       - Many to Many Relationship
-      -Self Referencing Relationship
+      - Self Referencing Relationship
     - What is meant by normalization and denormalization?
     - Explain different types of Normalization forms in a DBMS. First, Second, third, bcnf
     - Explain different types of keys in a database. Candidate, Super, Primary, Unique, Alternate, Foreign, Composite
-    -  
+    
  
-
 
 
 ## References  📚
