@@ -166,6 +166,10 @@ Check online SQL pratice tool :
     - Explain different types of Normalization forms in a DBMS. First, Second, third, bcnf
     - Explain different types of keys in a database. Candidate, Super, Primary, Unique, Alternate, Foreign, Composite
     
+ # SQL Practice
+
+    * [Top 50 SQL Query](https://artoftesting.com/sql-queries-for-interview#google_vignette)
+
  
 
 
