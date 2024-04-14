@@ -175,7 +175,7 @@ Check online SQL pratice tool :
 
    **[w3schools](https://www.w3schools.com/mysql/mysql_where.asp)**
 
-   ** [Explained : Conceptual, Logical, and Physical Data Models](https://factor-bytes.com/2023/12/17/explained-conceptual-logical-and-physical-data-models/)
+   **[Explained : Conceptual, Logical, and Physical Data Models](https://factor-bytes.com/2023/12/17/explained-conceptual-logical-and-physical-data-models/)**
    
    **[tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)**
    
