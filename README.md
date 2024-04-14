@@ -168,7 +168,7 @@ Check online SQL pratice tool :
     
  # SQL Practice
 
-    * [Top 50 SQL Query](https://artoftesting.com/sql-queries-for-interview#google_vignette)
+[Top 50 SQL Query](https://artoftesting.com/sql-queries-for-interview#google_vignette)
 
  
 
