@@ -174,6 +174,8 @@ Check online SQL pratice tool :
    **[Advanced Data Modeling](https://www.coursera.org/learn/advanced-data-modeling)**
 
    **[w3schools](https://www.w3schools.com/mysql/mysql_where.asp)**
+
+   ** [Explained : Conceptual, Logical, and Physical Data Models](https://factor-bytes.com/2023/12/17/explained-conceptual-logical-and-physical-data-models/)
    
    **[tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)**
    
