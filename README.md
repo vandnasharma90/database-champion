@@ -168,6 +168,11 @@ Check online SQL pratice tool :
     
  # SQL Practice
 
+ |Link                                                                    | Status | 
+ |------------------------------------------------------------------------|--------|
+ | [SQL Tutorial](https://www.w3schools.com/sql/default.asp)              | ToDo   |
+ 
+
 [Top 50 SQL Query](https://artoftesting.com/sql-queries-for-interview#google_vignette)
 
  
