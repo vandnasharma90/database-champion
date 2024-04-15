@@ -178,7 +178,8 @@ Check online SQL pratice tool :
 [Department Expenses](https://www.interviewquery.com/questions/department-expenses)
 
 [Interview Questions](https://www.interviewquery.com/questions?positions=Data+Analyst&positions=Business+Analyst&positions=Business+Intelligence&searchQuery=&searchQuestionTag=&searchCompany=&ordering=Recommended&orderingDirection=ASC&pageSize=20&page=0&tags=SQL&tags=Database+Design&levels=1&levels=2)
- 
+
+ [SQL Join types explained visually](https://www.atlassian.com/data/sql/sql-join-types-explained-visually)
 
  |Link                                                                    | Status | 
  |------------------------------------------------------------------------|--------|
