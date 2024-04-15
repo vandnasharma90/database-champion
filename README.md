@@ -168,6 +168,10 @@ Check online SQL pratice tool :
     
  # SQL Practice
 
+
+[Department Expenses](https://www.interviewquery.com/questions/department-expenses)
+ 
+
  |Link                                                                    | Status | 
  |------------------------------------------------------------------------|--------|
  | [SQL Tutorial](https://www.w3schools.com/sql/default.asp)              | ToDo   |
