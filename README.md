@@ -74,6 +74,10 @@
 ### What is MySQL
 ### Types of SQL commands
 
+#### SQL Joins
+
+[SQL Join types explained visually](https://www.atlassian.com/data/sql/sql-join-types-explained-visually)
+
 
 ![DML-DDL](https://github.com/vandnasharma90/database-champion/assets/137639055/1ab4ffd4-6816-44b2-a066-f26f640ac3d4)
 
